@@ -1,0 +1,10 @@
+﻿  InsertSort.c
+  main.c
+E:\Code_Project\VS_Code\C_code\DataStructureSet\DataStructure\Sort\InsertSort\InsertSort\InsertSort\main.c(12,16): warning C4047: “函数”:“DataType *”与“int (*)[25]”的间接级别不同
+E:\Code_Project\VS_Code\C_code\DataStructureSet\DataStructure\Sort\InsertSort\InsertSort\InsertSort\main.c(12,14): warning C4024: “PrintArray1”: 形参和实参 1 的类型不同
+E:\Code_Project\VS_Code\C_code\DataStructureSet\DataStructure\Sort\InsertSort\InsertSort\InsertSort\main.c(13,15): warning C4047: “函数”:“DataType *”与“int (*)[25]”的间接级别不同
+E:\Code_Project\VS_Code\C_code\DataStructureSet\DataStructure\Sort\InsertSort\InsertSort\InsertSort\main.c(13,13): warning C4024: “InsertSort”: 形参和实参 1 的类型不同
+E:\Code_Project\VS_Code\C_code\DataStructureSet\DataStructure\Sort\InsertSort\InsertSort\InsertSort\main.c(14,16): warning C4047: “函数”:“DataType *”与“int (*)[25]”的间接级别不同
+E:\Code_Project\VS_Code\C_code\DataStructureSet\DataStructure\Sort\InsertSort\InsertSort\InsertSort\main.c(14,14): warning C4024: “PrintArray1”: 形参和实参 1 的类型不同
+  正在生成代码...
+  InsertSort.vcxproj -> E:\Code_Project\VS_Code\C_code\DataStructureSet\DataStructure\Sort\InsertSort\InsertSort\Debug\InsertSort.exe
