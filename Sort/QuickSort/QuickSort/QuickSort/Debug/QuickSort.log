@@ -1,0 +1,15 @@
+﻿  QuickSort.c
+E:\Code_Project\VS_Code\C_code\DataStructureSet\DataStructure\Sort\QuickSort\QuickSort\QuickSort\QuickSort.c(65,35): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  main.c
+E:\Code_Project\VS_Code\C_code\DataStructureSet\DataStructure\Sort\QuickSort\QuickSort\QuickSort\main.c(12,16): warning C4047: “函数”:“DataType *”与“int (*)[6]”的间接级别不同
+E:\Code_Project\VS_Code\C_code\DataStructureSet\DataStructure\Sort\QuickSort\QuickSort\QuickSort\main.c(12,14): warning C4024: “PrintArray1”: 形参和实参 1 的类型不同
+E:\Code_Project\VS_Code\C_code\DataStructureSet\DataStructure\Sort\QuickSort\QuickSort\QuickSort\main.c(13,15): warning C4047: “函数”:“DataType *”与“int (*)[6]”的间接级别不同
+E:\Code_Project\VS_Code\C_code\DataStructureSet\DataStructure\Sort\QuickSort\QuickSort\QuickSort\main.c(13,13): warning C4024: “QuickSort1”: 形参和实参 1 的类型不同
+E:\Code_Project\VS_Code\C_code\DataStructureSet\DataStructure\Sort\QuickSort\QuickSort\QuickSort\main.c(14,16): warning C4047: “函数”:“DataType *”与“int (*)[6]”的间接级别不同
+E:\Code_Project\VS_Code\C_code\DataStructureSet\DataStructure\Sort\QuickSort\QuickSort\QuickSort\main.c(14,14): warning C4024: “PrintArray1”: 形参和实参 1 的类型不同
+E:\Code_Project\VS_Code\C_code\DataStructureSet\DataStructure\Sort\QuickSort\QuickSort\QuickSort\main.c(15,15): warning C4047: “函数”:“DataType *”与“int (*)[6]”的间接级别不同
+E:\Code_Project\VS_Code\C_code\DataStructureSet\DataStructure\Sort\QuickSort\QuickSort\QuickSort\main.c(15,13): warning C4024: “QuickSort2”: 形参和实参 1 的类型不同
+E:\Code_Project\VS_Code\C_code\DataStructureSet\DataStructure\Sort\QuickSort\QuickSort\QuickSort\main.c(16,16): warning C4047: “函数”:“DataType *”与“int (*)[6]”的间接级别不同
+E:\Code_Project\VS_Code\C_code\DataStructureSet\DataStructure\Sort\QuickSort\QuickSort\QuickSort\main.c(16,14): warning C4024: “PrintArray1”: 形参和实参 1 的类型不同
+  正在生成代码...
+  QuickSort.vcxproj -> E:\Code_Project\VS_Code\C_code\DataStructureSet\DataStructure\Sort\QuickSort\QuickSort\Debug\QuickSort.exe
