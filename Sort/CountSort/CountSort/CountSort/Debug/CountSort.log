@@ -1,0 +1,10 @@
+﻿  CountSort.c
+  main.c
+E:\Code_Project\VS_Code\C_code\DataStructureSet\DataStructure\Sort\CountSort\CountSort\CountSort\main.c(12,15): warning C4047: “函数”:“int *”与“int (*)[30]”的间接级别不同
+E:\Code_Project\VS_Code\C_code\DataStructureSet\DataStructure\Sort\CountSort\CountSort\CountSort\main.c(12,13): warning C4024: “PrintArray”: 形参和实参 1 的类型不同
+E:\Code_Project\VS_Code\C_code\DataStructureSet\DataStructure\Sort\CountSort\CountSort\CountSort\main.c(13,14): warning C4047: “函数”:“int *”与“int (*)[30]”的间接级别不同
+E:\Code_Project\VS_Code\C_code\DataStructureSet\DataStructure\Sort\CountSort\CountSort\CountSort\main.c(13,12): warning C4024: “CountSort”: 形参和实参 1 的类型不同
+E:\Code_Project\VS_Code\C_code\DataStructureSet\DataStructure\Sort\CountSort\CountSort\CountSort\main.c(14,15): warning C4047: “函数”:“int *”与“int (*)[30]”的间接级别不同
+E:\Code_Project\VS_Code\C_code\DataStructureSet\DataStructure\Sort\CountSort\CountSort\CountSort\main.c(14,13): warning C4024: “PrintArray”: 形参和实参 1 的类型不同
+  正在生成代码...
+  CountSort.vcxproj -> E:\Code_Project\VS_Code\C_code\DataStructureSet\DataStructure\Sort\CountSort\CountSort\Debug\CountSort.exe
